@@ -37,4 +37,4 @@ Google Search has been the go-to tool for finding information online for over tw
 [advanced search](https://www.google.com/advanced_search)
 
 [google translate plugin](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
-)
+

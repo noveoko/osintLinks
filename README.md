@@ -33,6 +33,8 @@ In today's digital age, images often carry with them a wealth of data that goes 
 Google Search has been the go-to tool for finding information online for over two decades. However, many users are unaware of the advanced search features that can greatly enhance their search experience. With advanced Google Search, users can refine their queries with filters for language, region, date range, and more, as well as search for specific file types, such as PDFs or images. For power users, Google Search also supports Boolean operators and search operators, which allow for highly specific and complex search queries. These advanced search features can be particularly useful for researchers, academics, and journalists who need to quickly and accurately find highly specific information. However, it's important to note that not all advanced search features are well-known or easily accessible, which means that many users may not be taking advantage of the full potential of Google Search. As the internet continues to grow and evolve, understanding and utilizing advanced search features will become increasingly important for anyone who wants to effectively navigate the vast sea of online information.
 
 [google dorks](https://www.boxpiper.com/posts/google-dork-list)
+
 [advanced search](https://www.google.com/advanced_search)
+
 [google translate plugin](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
 )

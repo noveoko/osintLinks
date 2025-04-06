@@ -34,3 +34,6 @@ Based on Christo Grozev's investigation, I've extracted his process for identify
 This process demonstrates how open-source intelligence (OSINT) and data journalism techniques can uncover hidden identities by methodically connecting disparate pieces of information from multiple sources.
 
 Based on [The Story of Vadim Krasikov: The Kremlin's Favorite Assassin](https://www.youtube.com/watch?v=Kl9aaCDSOzs)
+
+The prompt used to generate the md:
+```Extract the process that the expert used to identify the spy (would be great to create a generic/widely applicable approach):```
